@@ -1,0 +1,28 @@
+name: Herzanalog
+favicon: null
+layout_spectrum: 0.22119089611805975
+typography_spectrum: 0.07634670590050519
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.46604794496670365
+  lightness: 0.6128583669196814
+  saturation: 0.885898262495175
+  rhythmicContrast: 0.8514056326821446
+purpose: []
