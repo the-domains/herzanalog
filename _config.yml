@@ -1,4 +1,4 @@
-name: Herzanalog
+name: Herz analog
 favicon: null
 layout_spectrum: 0.22119089611805975
 typography_spectrum: 0.07634670590050519
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.46604794496670365
-  lightness: 0.6128583669196814
-  saturation: 0.885898262495175
-  rhythmicContrast: 0.8514056326821446
+    - '#0a0a0a'
+    - '#ffffff'
+    - '#c9d0d8'
+    - '#7b8faa'
+    - '#454a4e'
+  brandStrength: 0.625
+  lightness: 0.3125
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
