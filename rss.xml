@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Herzanalog]]></title>
-        <description><![CDATA[Herzanalog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Herz analog]]></title>
+        <description><![CDATA[Herz analog]]></description>
+        <link>https://thegrid.ai/herzanalog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 02:24:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 15:34:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/herzanalog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e65f2203-e8ac-4bfa-9d67-a78c492c51d4.jpg">]]></description>
+            <link>https://thegrid.ai/herzanalog/ea027400-0ce9-4aa7-86d7-a65e92280dc9/index.html</link>
+            <guid isPermaLink="false">ea027400-0ce9-4aa7-86d7-a65e92280dc9</guid>
+            <pubDate>Mon, 25 Apr 2016 15:34:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/221d0465-f1d6-4f60-8667-3cb348089327.jpg">]]></description>
-            <link>undefined-/index.html</link>
+            <link>https://thegrid.ai/herzanalog/-/index.html</link>
             <guid isPermaLink="false">1ca75679-ef54-40db-9e18-17cb90b2e1c2</guid>
             <pubDate>Mon, 18 Apr 2016 02:24:29 GMT</pubDate>
         </item>
